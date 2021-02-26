@@ -1,0 +1,7 @@
+C:\Users\Taraneh\source\repos\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Taraneh\source\repos\Assignment\bin\Debug\Assignment.exe
+C:\Users\Taraneh\source\repos\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Taraneh\source\repos\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Taraneh\source\repos\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Taraneh\source\repos\Assignment\obj\Debug\Assignment.exe
+C:\Users\Taraneh\source\repos\Assignment\obj\Debug\Assignment.pdb
